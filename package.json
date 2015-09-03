@@ -1,0 +1,26 @@
+{
+  "name": "karma-demonstration",
+  "version": "1.0.0",
+  "description": "JavaScript Office hours karma demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "keywords": [
+    "karma",
+    "angular"
+  ],
+  "author": "ccohn@infarmbureau.com",
+  "license": "ISC",
+  "devDependencies": {
+    "angular-mocks": "^1.4.5",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.9",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "phantomjs": "^1.9.18"
+  },
+  "dependencies": {
+    "angular": "^1.4.5"
+  }
+}
